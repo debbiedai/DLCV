@@ -11,7 +11,7 @@ In this assignment, you are given datasets of human face and digit images. You w
 
 ## Task 4 - Few-Shot Classification
 
-## Pjoject - Face Anti-spoofing
+## Project - Face Anti-spoofing
 *   In general, face anti-spoofing is a two-class classification task. 
     Real: Face images which are directly captured by cameras.
     Fake: Face images which are remade from printed photos, replay-videos, etc.
