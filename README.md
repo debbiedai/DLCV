@@ -19,3 +19,5 @@ In this assignment, you are given datasets of human face and digit images. You w
     Train a model for telling whether input images are Real or Fake. 
     The task contains 2 datasets; one for both training and testing, and one for testing only.
 *   Task: Classification
+
+## Project - Monitor Social Distance by YOLOv4
