@@ -10,6 +10,7 @@ implement two semantic segmentation models
 In this assignment, you are given datasets of human face and digit images. You will need to implement the models of both VAE and GAN for generating human face images, and the model of DANN for classifying digit images from different domains.
 
 ## Task 4 - Few-Shot Classification
+Few-shot learning, which aims to accomplish a learning task by using very few training examples
 
 ## Project - Face Anti-spoofing
 *   In general, face anti-spoofing is a two-class classification task. 
@@ -21,3 +22,5 @@ In this assignment, you are given datasets of human face and digit images. You w
 *   Task: Classification
 
 ## Project - Monitor Social Distance by YOLOv4
+*   Determine the distance between people in 2D images by designing a deep larning framework that can detect people in images and calculating distances between them.
+*   Task: Detection
