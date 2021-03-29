@@ -5,10 +5,10 @@ implement an image classification model
 
 ## Task 2 - Semantic Segmentation
 implement two semantic segmentation models
-
+![image](https://github.com/debbiedai/DLCV/blob/main/image/segmentation.PNG)
 ## Task 3 - VAE, GAN and DANN
 In this assignment, you are given datasets of human face and digit images. You will need to implement the models of both VAE and GAN for generating human face images, and the model of DANN for classifying digit images from different domains.
-
+![image](https://github.com/debbiedai/DLCV/blob/main/image/vae.PNG)
 ## Task 4 - Few-Shot Classification
 Few-shot learning, which aims to accomplish a learning task by using very few training examples
 
