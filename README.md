@@ -24,3 +24,4 @@ Few-shot learning, which aims to accomplish a learning task by using very few tr
 ## Project - Monitor Social Distance by YOLOv4
 *   Determine the distance between people in 2D images by designing a deep larning framework that can detect people in images and calculating distances between them.
 *   Task: Detection
+![image](https://github.com/debbiedai/DLCV/blob/main/image/detection.png)
